@@ -4,24 +4,16 @@
 <table>
   <tr>
     <td>
-      <i>Example:</i><br />
-      <b>Bachelor of Science in Computer Science, Minor in Data Science</b> | June 2022<br />
-      Seattle University - Seattle, WA<br />
-      GPA: 3.9
+      <b>Bachelor of Science in Engineering in Computer Engineering, Minor in Engineering Entrepreneurship</b> | May 2021<br />
+      University of Pennsylvania - Philadelphia, PA <br />
+      GPA: 3.14
     </td>
   </tr>
   <tr>
     <td>
-      <b>Degree</b> | Completion Date<br />
-      Institution - Location<br />
-      GPA: 0.0
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Degree</b> | Completion Date<br />
-      Institution - Location<br />
-      GPA: 0.0
+      <b>Master's of Science in Cybersecurity</b> | In Progress, on track for May 2026<br />
+      University of Texas at San Antonio (UTSA) - San Antonio, TX<br />
+      GPA: 4.0
     </td>
   </tr>
 </table>
